@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Privacy Policy</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+</head>
+<link rel="shortcut icon" href="Mentoring-logo.png" type="image/x-icon"> 
+<style>
+    body {
+      background-color: lightblue;
+      font-family: Arial, Helvetica, sans-serif;
+      background-size: 100%;
+      background-repeat: no-repeat;
+      background-position: center center;
+      background-attachment: fixed;
+      height: 100vh;
+      margin: 0;
+    }
+
+    .custom-column-gap {
+      margin-right: 200px;
+    }
+
+    @media (max-width: 768px) {
+      .custom-column-gap {
+        margin-right: 0;
+        margin-bottom: 20px;
+      }
+    }
+
+    footer {
+      background-color: #333;
+      color: white;
+      padding: 20px 0;
+      text-align: center;
+    }
+
+    .left-align {
+      text-align: left;
+    }
+
+    #main-body {
+      min-height: calc(100vh - 396px);
+    }
+
+.images-div img.img-fluid.equal-img {
+    height: 300px;
+    object-fit: cover;
+    width:100%;
+}
+
+    @media screen and (max-width: 300px) {
+      .cancelbtn,
+      .signupbtn {
+        width: 100%;
+      }
+    }
+  </style>
+</head>
+
+
+<body>
+    <style>
+        body {
+            background-color: lightblue;
+        }
+    </style>
+
+    <nav class="navbar navbar-expand-sm navbar-light blue bg-light">
+        <div class="container-fluid">
+            <a class="navbar-brand"> <img src="Mentoring-logo.png" width="125px" height="90px" alt="Website Logo"
+                    class="logo"></a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mynavbar">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="mynavbar">
+                <ul class="navbar-nav me-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="HTML.html">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="sign-up-form.html">Sign up</a>
+                    </li>
+		    <li class="nav-item">
+			<a class="nav-link" href="Log-in.html">Log in</a>
+		    <li class="nav-item">
+                        <a class="nav-link" href="contact-us.html">Contact us</a>
+                    </li>
+		    </li>
+		    <li class="nav-item">
+			<a class="nav-link" href="Terms-and-conditions.html">Terms and Conditions</a>
+		    </li class="nav-item">
+		    <li>
+			<a class="nav-link" href="Privacy-Policy.html">Privacy Policy</a>
+		    </li>
+                </ul>
+                <form class="d-flex ">
+                    <input class="form-control me-2" type="text" placeholder="Search">
+                    <button class="btn btn-primary" type="button">Search</button>
+                </form>
+            </div>
+        </div>
+    </nav>
+    </body>
+<h1 style="text-align: center;">Privacy Policy</h1>
+
+<h3>The data we collect about you</h3>
+<p>Personal data, or personal information, means any information about an individual from which that person can be identified. It does not include data where the identity has been removed (anonymous data).</p>
+
+<p>We may collect, use, store and transfer different kinds of personal data about you which we have grouped together follows:</p>
+
+<p>Identity Data includes first name, maiden name, last name, username or similar identifier, marital status, title, date of birth and gender.
+Contact Data includes home address, work address, email address and telephone numbers.
+Technical Data includes internet protocol (IP) address, your login data, browser type and version, time zone setting and location, browser plug-in types and versions, operating system and platform and other technology on the devices you use to access this website.
+Profile Data includes your username and password, your interests, work history, your CV, information about your mentoring reasons and preferences, feedback and survey responses.</p>
+<p>Usage Data includes information about how you use our website, the MentorMate Platform, and MentorMate’s products and services.
+Marketing and Communications Data includes your preferences in receiving marketing from MentorMate and your communication preferences.
+We also collect, use and share Aggregated Data such as statistical or demographic data for any purpose. Aggregated Data may be derived from your personal data but is not considered personal data in law as this data does not directly or indirectly reveal your identity. For example, we may aggregate your Usage Data to calculate the percentage of users accessing a specific website feature. However, if we combine or connect Aggregated Data with your personal data so that it can directly or indirectly identify you, we treat the combined data as personal data which will be used in accordance with this privacy policy.</p>
+<p>
+<h3>Special Categories of Personal Data</h3>
+</p>
+<p>We do collect certain Special Categories of Personal Data about you in relation to your race or ethnicity. We also collect information about any criminal convictions and offences, which although is not a part of the Special Categories of Personal Data under GDPR, it is treated similarly.</p>
+
+<h3>MentorMate uses this data to:</h3>
+
+<p>Carry out much-needed evaluation and monitoring about mentoring and the impact of mentoring.</p>
+<p>Share the data with Partner organisations who use the data to provide the mentoring connections with young people as part of our services. The data relating to criminal convictions and offences assists these organisations to make decisions with due regards given to safeguarding young people in their care.</p>
+<p>You have control of this data, which is part of your profile. You are given the option not to provide this information at the time you complete your profile and are free to change it at any time.</p>
+
+<h3>The Article 9 (of GDPR) conditions under which this is categorised under state:</h3
+
+<p>The data subject has given explicit consent to the processing of those personal data for one or more specified purposes, except where Union or Member State law provide that the prohibition referred to in paragraph 1 may not be lifted by the data subject.</p>
+
+<p>Processing is necessary for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes in accordance with Article 89 based on Union or Member State law which shall be proportionate to the aim pursued, respect the essence of the right to data protection and provide for suitable and specific measures to safeguard the fundamental rights and the interests of the data subject.</p>
+
+<h3>Sensitive data</h3>
+
+<p>It may be necessary for MentorMate to share sensitive information about mentees where there are serious concerns for their safety or the safety of others. The law does not prevent the sharing of sensitive, personal information between organisations where the public interest
+served outweighs the public interest served by protecting confidentiality – for example, where a serious crime may be prevented. The mentees’s consent to share sensitive information will be sought in line with the MentorMate safeguarding policy.</p>
+
+<h3>If you fail to provide personal data</h3>
+
+<p>Where we need to collect personal data by law, or under the terms of a contract we have with you and you fail to provide that data when requested, we may not be able to perform the contract we have or are trying to enter into with you (for example, to provide you with goods or services). In this case, we may have to cancel a product or service you have with us but we will notify you if this is the case at the time.</p>
+
+<h3>How is your personal data collected?</h3>
+<strong>We use different methods to collect data from and about you including through:</strong>
+
+<p>Direct interactions-You may give us your Identity, Contact and Profile Data by filling in forms or by corresponding with us by post, phone, email or otherwise. This includes personal data you provide when you:</p>
+<p>a. Create an account on our website.</p>
+<p>b. Subscribe to our service.</p>
+<p>c. Request marketing to be sent to you; or give us some feedback.</p>
+<p>Automated technologies or interactions-As you interact with our website, we may automatically collect Technical Data about your equipment, browsing actions and patterns. We collect this personal data by using cookies, server logs and other similar technologies.
+Third parties or publicly available sources. We may receive personal data about you from various third parties as set out below:
+Technical Data from the analytics providers such as Google based outside the EU;
+Identity and Contact Data from third parties with whom we partner for the purposes of providing MentorMate services.</p>
+
+<p>By failing to act to prevent harm. Harm can include ill treatment that is not physical as 
+well as the impact of witnessing ill treatment of others. This can be particularly relevant, 
+for example, in relation to the impact on children of all forms of domestic abuse, 
+including where they see, hear, or experience its effects. Children may be abused in a 
+family or in an institutional or extra-familial contexts by those known to them or, more 
+rarely, by others. Abuse can take place wholly online, or technology may be used to 
+facilitate offline abuse. Children may be abused by an adult or adults, or another child 
+or children.</p>
+
+<footer>
+    <p>&copy; 2025 Your Website. All Rights Reserved.</p>
+    <p>
+      <a href="Privacy-Policy.html">Privacy Policy</a> |
+      <a href="Terms-and-conditions.html">Terms and Conditions</a>
+    </p>
+  </footer>
+
+</body>
+
+</html>
