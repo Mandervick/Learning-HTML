@@ -2,37 +2,53 @@
 <html lang="en">
 
 <head>
-  <title>MentorMate</title>
+
+<title>MentorMate</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
-
+<link rel="shortcut icon" href="Mentoring-logo.png" type="image/x-icon"> 
   <style>
     body {
-background-color: lightblue;
+      background-color: lightblue;
       font-family: Arial, Helvetica, sans-serif;
       background-size: 100%;
       background-repeat: no-repeat;
       background-position: center center;
       background-attachment: fixed;
-      
       height: 100vh;
       margin: 0;
     }
 
-    /* Custom CSS for adding space between columns */
     .custom-column-gap {
-      margin-right: 200px; /* Adjust the gap between columns */
+      margin-right: 200px;
     }
 
-    /* Optional: Adding some space between the columns on smaller screens */
     @media (max-width: 768px) {
       .custom-column-gap {
         margin-right: 0;
         margin-bottom: 20px;
       }
     }
+
+ /* Set a style for all buttons */
+    button {
+        background-color: #4CAF50;
+        color: white;
+        padding: 14px 20px;
+        /* margin: 8px 0; */
+        border: none;
+        cursor: pointer;
+        /* width: 100%; */
+        opacity: 0.9;
+    }
+
+.button-container {
+  display: flex;
+  justify-content: flex-start;
+}
+
 
     footer {
       background-color: #333;
@@ -45,32 +61,16 @@ background-color: lightblue;
       text-align: left;
     }
 
-    .upper-dev {
-      display: flex;
-    }
-
-    .upper-dev .left,
-    .upper-dev .right {
-      width: 50%;
-    }
-
-    .upper-dev .right {
-      text-align: right;
-    }
-
-    .upper-dev .right img {
-      width: 300px;
-    }
-
-.upper-dev .center img{
-width: 300px;
-height: 169px;
-{
     #main-body {
       min-height: calc(100vh - 396px);
     }
 
-    /* Change styles for cancel button and signup button on extra small screens */
+.images-div img.img-fluid.equal-img {
+    height: 300px;
+    object-fit: cover;
+    width:100%;
+}
+
     @media screen and (max-width: 300px) {
       .cancelbtn,
       .signupbtn {
@@ -94,7 +94,18 @@ height: 169px;
         <ul class="navbar-nav me-auto">
           <li class="nav-item"><a class="nav-link" href="HTML.html">Home</a></li>
           <li class="nav-item"><a class="nav-link" href="sign-up-form.html">Sign up</a></li>
-          <li class="nav-item"><a class="nav-link" href="contact-us.html">Contact us</a></li>
+              <li class="nav-item">
+			<a class="nav-link" href="Log-in.html">Log in</a>
+		    <li class="nav-item">
+                        <a class="nav-link" href="contact-us.html">Contact us</a>
+                    </li>
+		    </li>
+		    <li class="nav-item">
+			<a class="nav-link" href="Terms-and-conditions.html">Terms and Conditions</a>
+		    </li class="nav-item">
+		    <li>
+			<a class="nav-link" href="Privacy-policy.html">Privacy Policy</a>
+		    </li>
         </ul>
         <form class="d-flex">
           <input class="form-control me-2" type="text" placeholder="Search">
@@ -104,21 +115,23 @@ height: 169px;
     </div>
   </nav>
 
-  <div class="container-fluid px-5 bg-primary text-white text-center upper-dev">
-    <div class="left">
-      <h1 class="text-start">MentorMate</h1>
-      <p class="text-start">Start your mentoring journey with MentorMate!</p>
-    </div>
-
-    <div class="center">
-      <img src="Mentoring-image-1.jpeg" alt="">
-    </div>
-
-    <div class="right">
-      <img src="Mentoring-image-3.jpeg" alt="">
+  <!-- Responsive upper section -->
+  <div class="container-fluid px-5 bg-primary text-white text-center">
+    <div class="row align-items-center py-4 images-div">
+      <div class="col-md-4">
+        <h1 class="text-center">MentorMate</h1>
+        <p class="text-center">Start your mentoring journey with MentorMate!</p>
+      </div>
+      <div class="col-md-4">
+        <img src="Mentoring-image-1.jpeg" alt="Mentoring 1" class="img-fluid equal-img">
+      </div>
+      <div class="col-md-4">
+        <img src="Mentoring-image-3.jpeg" alt="Mentoring 3" class="img-fluid equal-img">
+      </div>
     </div>
   </div>
 
+  <!-- Main content -->
   <div class="container mt-5" id="main-body">
     <div class="row">
       <div class="col-sm-6 col-md-5 custom-column-gap">
@@ -129,6 +142,12 @@ height: 169px;
         <p><strong>Strengthening Leadership Skills:</strong> As a mentor, you develop abilities like patience, active listening, empathy, and strategic thinking.</p>
         <p><strong>Creating a Legacy:</strong> Helping someone succeed creates a ripple effect beyond just one person.</p>
         <p><strong>Building Relationships:</strong> Mentorship fosters deep connections that can last a lifetime.</p>
+	<p><strong>Set Goals:</strong> A menteor can help set targets for the mentor for personal or professional development.</p>
+	<div class="button-container">
+  <button class="w-auto px-4 py-3 mb-2" onclick="location.href='sign-up-form.html'">Click here to sign up to become a mentor or mentee</button>
+</div>
+
+
       </div>
 
       <div class="col-sm-6 col-md-5">
@@ -140,6 +159,11 @@ height: 169px;
         <p><strong>Building Confidence:</strong> A mentor's encouragement and feedback can boost your self-assurance.</p>
         <p><strong>Networking Opportunities:</strong> Mentors often have extensive networks and can connect you to valuable resources.</p>
         <p><strong>Personalized Guidance:</strong> Unlike general advice, a mentor's support is tailored to your unique aspirations.</p>
+	<div class="button-container">
+  <button class="w-auto px-4 py-3 mb-2" onclick="location.href='Log-in.html'">Log in</button>
+</div>
+
+	
       </div>
     </div>
   </div>
@@ -147,10 +171,15 @@ height: 169px;
   <footer>
     <p>&copy; 2025 Your Website. All Rights Reserved.</p>
     <p>
-      <a href="javascript:void(0)">Privacy Policy</a> |
-      <a href="javascript:void(0)">Terms of Service</a>
+      <a href="Privacy-Policy.html">Privacy Policy</a> |
+      <a href="Terms-and-conditions.html">Terms and Conditions</a>
     </p>
   </footer>
 
 </body>
+
+</html>
+
+</body>
+
 </html>
