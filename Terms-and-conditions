@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Terms and Conditions</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+</head>
+<link rel="shortcut icon" href="Mentoring-logo.png" type="image/x-icon"> 
+<style>
+    body {
+      background-color: lightblue;
+      font-family: Arial, Helvetica, sans-serif;
+      background-size: 100%;
+      background-repeat: no-repeat;
+      background-position: center center;
+      background-attachment: fixed;
+      height: 100vh;
+      margin: 0;
+    }
+
+    .custom-column-gap {
+      margin-right: 200px;
+    }
+
+    @media (max-width: 768px) {
+      .custom-column-gap {
+        margin-right: 0;
+        margin-bottom: 20px;
+      }
+    }
+
+    footer {
+      background-color: #333;
+      color: white;
+      padding: 20px 0;
+      text-align: center;
+    }
+
+    .left-align {
+      text-align: left;
+    }
+
+    #main-body {
+      min-height: calc(100vh - 396px);
+    }
+
+.images-div img.img-fluid.equal-img {
+    height: 300px;
+    object-fit: cover;
+    width:100%;
+}
+
+    @media screen and (max-width: 300px) {
+      .cancelbtn,
+      .signupbtn {
+        width: 100%;
+      }
+    }
+  </style>
+</head>
+
+<body>
+    <style>
+        body {
+            background-color: lightblue;
+        }
+    </style>
+
+    <nav class="navbar navbar-expand-sm navbar-light blue bg-light">
+        <div class="container-fluid">
+            <a class="navbar-brand"> <img src="Mentoring-logo.png" width="125px" height="90px" alt="Website Logo"
+                    class="logo"></a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mynavbar">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="mynavbar">
+                <ul class="navbar-nav me-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="HTML.html">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="sign-up-form.html">Sign up</a>
+                    </li>
+		    <li class="nav-item">
+			<a class="nav-link" href="Log-in.html">Log in</a>
+		    <li class="nav-item">
+                        <a class="nav-link" href="contact-us.html">Contact us</a>
+                    </li>
+		    </li>
+		    <li class="nav-item">
+			<a class="nav-link" href="Terms-and-conditions.html">Terms and Conditions</a>
+		    </li class="nav-item">
+		    <li>
+			<a class="nav-link" href="Privacy-policy.html">Privacy Policy</a>
+		    </li>
+                </ul>
+                <form class="d-flex ">
+                    <input class="form-control me-2" type="text" placeholder="Search">
+                    <button class="btn btn-primary" type="button">Search</button>
+                </form>
+            </div>
+        </div>
+    </nav>
+    </body>
+<h1 style="text-align: center;">Terms and Conditions</h1>
+<p>Please read these terms and conditions carefully as they govern your use of this website. Your use of this site constitutes acceptance of these Terms and Conditions, which take effect from the date of your first visit to the site. If these Terms and Conditions are not accepted in full, please terminate use of this site immediately. You agree to use this site only for lawful purposes, and in a manner that does not infringe the rights of any third party, nor restrict or inhibit their use and enjoyment of this site.
+This website and its information are provided on an ‘as is’ basis with no warranties of any kind whatsoever, either express or implied. Use of this website and the information on it is entirely at the user’s sole risk. In no event will MentorMate be liable for any damages whatsoever arising out of or related to this website. Your sole and exclusive remedy for dissatisfaction with this website and/or information contained is to stop using the site and the information.
+MentorMate does not warrant that the functions contained in this site will be uninterrupted or error free, or that defects will be corrected.
+Virus protection, hacking and other offences We make every effort to check and test material at all stages of production, however you must take your own precautions to ensure that the process which you employ for accessing this website does not expose you to the risk of viruses, malicious computer code or other forms of interference which may damage your own computer system.</p>
+<p>We can’t accept any responsibility for any loss, disruption or damage to your data or your computer system which may occur whilst using material derived from this website.You must not misuse our site by knowingly introducing viruses, trojans, worms, logic bombs or other material which is malicious or technologically harmful. You must not attempt to gain unauthorised access to our site, the server on which our site is stored or any server, computer or database connected to our site. You must not attack our site via a denial-of-service attack or a distributed denial-of-service attack.
+By breaching this provision, you would commit a criminal offence under the Computer Misuse Act 1990. We will report any such breach to the relevant law enforcement authorities and we will co-operate with those authorities by disclosing your identity to them.
+Information about you We will never pass the details you provide to us on to anyone other than those specified in our privacy policy.
+Accuracy of information Whilst all reasonable efforts have been made to ensure the accuracy of content, no responsibility can be taken for any error or omission.
+Disclaimer While we make every effort to keep the website up to date, we don’t provide any guarantees, conditions or warranties as to the accuracy of the information on the site. We don’t accept liability for loss or damage incurred by users of the website, whether direct, indirect or consequential, whether caused by tort, breach of contract or otherwise.</p>
+<p>This includes loss of: income or revenue, business, profits or contracts, anticipated savings, data, goodwill, tangible property or wasted management or office time in connection with our site or in connection with the use, inability to use, or results of the use of our site, any websites linked to it and any materials posted on it. This condition shall not prevent claims for loss of or damage to your tangible property or any other claims for direct financial loss that are not excluded by any of the categories set out above.
+This does not affect our liability for death or personal injury arising from our negligence, nor our liability for fraudulent misrepresentation or misrepresentation as to a fundamental matter, nor any other liability which cannot be excluded or limited under applicable law.
+External links MentorMate does not accept any liability over the content of any third party sites that are linked to from its website. The existence of these links does not constitute an endorsement of the websites, nor the views expressed in them. Your linking to these sites is entirely at your own risk.
+Revisions to these terms MentorMate may revise these Terms and Conditions at any time, and you agree to periodically review them. Should the revision be unacceptable to you, you agree to stop accessing this site immediately.</p>
+<p>Copyright, trademark and intellectual property rights No part of this website, including information, images, logos, photos, and overall appearance of the site, may be copied, republished, broadcast or reproduced in any form whatsoever without the prior written permission of the copyright holders except for your own personal, or non-commercial use.
+Jurisdictions These Terms and Conditions shall be governed by the laws of England and Wales. The courts in England and Wales will have jurisdiction in respect of any dispute which may arise.
+If any of these Terms and Conditions shall be determined to be illegal, invalid or otherwise unenforceable by reason of any state or country in which these Terms are intended to be effective, then to the extent and within which that Term is illegal, invalid or unenforceable, it shall be severed and deleted from these Terms and the remaining Terms shall survive, remain in full force and effect and continue to be binding and enforceable.</p>
+
+<footer>
+    <p>&copy; 2025 Your Website. All Rights Reserved.</p>
+    <p>
+      <a href="Privacy-Policy.html">Privacy Policy</a> |
+      <a href="Terms-and-conditions.html">Terms and Conditions</a>
+    </p>
+  </footer>
+
+</body>
+
+</html>
