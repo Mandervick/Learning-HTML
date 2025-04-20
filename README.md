@@ -25,6 +25,9 @@ and allows them to access our terms and conditions and privacy policy. The terms
 log in and sign up page both have a "remember me" checkbox to easily sign the user in if they are using a private computer and are happy to do so. This box is not ticked by default for security,
 but the user has the choice to if they so wish.
 
+During the creation of the website, I kept refreshing the pages I modified to make sure they did as I wanted. This made sure I tested the web-pages
+after every edit I made. After finishing all the pages, I then tested the whole website, I made sure everything appeared as I wanted and made sure all the buttons worked as expected.
+
 Image of the home page 1: ![image](https://github.com/user-attachments/assets/b4628847-0483-47e2-b61e-bc47389055b6)
 Image of the home page 2: ![image](https://github.com/user-attachments/assets/8389325b-0e7b-4cb8-9f67-507c4a1bdc08)
 Image of the sign up page: ![image](https://github.com/user-attachments/assets/79f87942-bb03-4e43-a8cb-29d2a32eec9b)
