@@ -14,7 +14,7 @@ and form fields are accessible via the keyboard. When a user doesn't fill in a f
 the user immediate feedback of any errors. The "Remember me" checkbox is also keyboard-operable and screen-reader-friendly. I have made sure that the design elements such as the buttons, styles,
 font sizes are consistent throughout the form. The user can easily undo or redo any actions they took by mistake. I have used images and iconic representation for the student to easily identify
 what each button does. I have also used real world colours that are globally known on my buttons, for example, cancel is in red and the submit button is in green so that the user can make a
-decision quicker on the button they should press. The home page is split into two columns and I've made sure that all other pages are aligned properly on all different screen sizes to meet
+decision quicker on the button they should press. The home page (called "HTML.html") is split into two columns and I've made sure that all other pages are aligned properly on all different screen sizes to meet
 the user and the persona's needs for ease of use.
 
 The home page is designed with information and images to draw people in and to make the page look more attractive. I've added clear buttons on the home page to easily go to the sign up page. The
@@ -26,7 +26,7 @@ log in and sign up page both have a "remember me" checkbox to easily sign the us
 but the user has the choice to if they so wish.
 
 During the creation of the website, I kept refreshing the pages I modified to make sure they did as I wanted. This made sure I tested the web-pages
-after every edit I made. After finishing all the pages, I then tested the whole website, I made sure everything appeared as I wanted and made sure all the buttons worked as expected.
+after every edit I made. After finishing all the pages, I then tested the whole website, I made sure everything appeared as I wanted and made sure all the buttons worked as expected. I also got third-parties to test my website and got feedback from them so I could make improvements. I made sure that before submitting my final work, the third-parties were happy with the operation of the website and with the look and feel.
 
 Image of the home page 1: ![image](https://github.com/user-attachments/assets/b4628847-0483-47e2-b61e-bc47389055b6)
 Image of the home page 2: ![image](https://github.com/user-attachments/assets/8389325b-0e7b-4cb8-9f67-507c4a1bdc08)
