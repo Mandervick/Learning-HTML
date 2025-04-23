@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html>
 
+<!-- Setting the styles and the title -->
+
 <head>
 <title>Privacy Policy</title>
     <meta charset="utf-8">
@@ -10,6 +12,8 @@
 </head>
 <link rel="shortcut icon" href="Mentoring-logo.png" type="image/x-icon"> 
 <style>
+
+/* Style for the main body */
     body {
       background-color: lightblue;
       font-family: Arial, Helvetica, sans-serif;
@@ -32,6 +36,7 @@
       }
     }
 
+/* Creating the footer style /*
     footer {
       background-color: #333;
       color: white;
@@ -70,6 +75,7 @@
         }
     </style>
 
+<!-- Creating the navigation bar -->
     <nav class="navbar navbar-expand-sm navbar-light blue bg-light">
         <div class="container-fluid">
             <a class="navbar-brand"> <img src="Mentoring-logo.png" width="125px" height="90px" alt="Website Logo"
@@ -98,6 +104,8 @@
             </div>
         </div>
     </nav>
+
+<!-- Creating the privacy policy -->
     </body>
 <h1 style="text-align: center;">Privacy Policy</h1>
 
@@ -160,6 +168,7 @@ rarely, by others. Abuse can take place wholly online, or technology may be used
 facilitate offline abuse. Children may be abused by an adult or adults, or another child 
 or children.</p>
 
+<!-- Creating the footer -->
 <footer>
     <p>&copy; 2025 Your Website. All Rights Reserved.</p>
     <p>
