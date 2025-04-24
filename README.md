@@ -90,14 +90,14 @@ As well as these, I also tested my page using google chrome's light house featur
 ![image](https://github.com/user-attachments/assets/03d86450-7ccf-43f0-9883-94898f126ca3)
 
 This had a score of 95% which shows the website's performance is very good.
-
+---
 
 #### Accessibility:
 
 ![image](https://github.com/user-attachments/assets/07731918-13c9-4270-8d8e-4fd8c0ae7f99)
 
 This had a score of 77%. The buttons have clear names but may be difficult to use with screen readers. At times, the background and foreground text could have a better contrast.
-
+---
 
 #### Best practices:
 
