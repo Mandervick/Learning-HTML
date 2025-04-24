@@ -85,28 +85,28 @@ During the creation of the website, I kept refreshing the page every time I made
 As well as these, I also tested my page using google chrome's light house feature. My results were:
 
 
-Performance:
+#### Performance:
 
 ![image](https://github.com/user-attachments/assets/03d86450-7ccf-43f0-9883-94898f126ca3)
 
 This had a score of 95% which shows the website's performance is very good.
 
 
-Accessibility:
+#### Accessibility:
 
 ![image](https://github.com/user-attachments/assets/07731918-13c9-4270-8d8e-4fd8c0ae7f99)
 
 This had a score of 77%. The buttons have clear names but may be difficult to use with screen readers. At times, the background and foreground text could have a better contrast.
 
 
-Best practices:
+#### Best practices:
 
 ![image](https://github.com/user-attachments/assets/add41cfe-3306-439a-823e-7d1de0d150f3)
 
 This had a score of 96% which shows the website's have very good practices.
 
 
-Search engine optimisation:
+#### Search engine optimisation:
 
 ![image](https://github.com/user-attachments/assets/25646753-2abf-4c88-81d8-d10fd4332ea2)
 
