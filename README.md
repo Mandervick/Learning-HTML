@@ -92,7 +92,6 @@ Performance:
 This had a score of 95% which shows the website's performance is very good.
 
 
-
 Accessibility:
 
 ![image](https://github.com/user-attachments/assets/07731918-13c9-4270-8d8e-4fd8c0ae7f99)
@@ -101,35 +100,35 @@ This had a score of 77%. The buttons have clear names but may be difficult to us
 
 
 Best practices:
----
+
 ![image](https://github.com/user-attachments/assets/add41cfe-3306-439a-823e-7d1de0d150f3)
----
+
 This had a score of 96% which shows the website's have very good practices.
----
+
 
 Search engine optimisation:
----
+
 ![image](https://github.com/user-attachments/assets/25646753-2abf-4c88-81d8-d10fd4332ea2)
----
+
 This had a score of 82%.
----
+
 ### Nu HTML checker
----
+
 After this, I tested the page using Nu Html Checker. The result was:
----
+
 ![image](https://github.com/user-attachments/assets/0158bb8a-b9fa-4ce6-a15e-edac9d9cdd11)
----
+
 There were 3 errors found but no warnings. These will be investigated in detail later.
----
+
 
 ### CSS validator
----
+
 I also used the CSS validator. The result was:
----
+
 ![image](https://github.com/user-attachments/assets/1ad4e488-f41b-4a91-9a37-704158fee8f4)
----
+
 There were no errors with my CSS.
----
+
 
 ### Final tests
 As a final test, I also got third-parties to test my website and got feedback from them so I could make improvements. I made sure that before submitting my final work, the third-parties were happy with the operation of the website and with the look and feel.
