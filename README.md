@@ -68,6 +68,20 @@ but the user has the choice to if they so wish.
 
 ## Validation and testing
 During the creation of the website, I kept refreshing the page every time I made an edit to make sure it worked as I wanted. If it didn't, this allowed me to identify where I went wrong quickly and fix the isue. This also helped me to make sure that I had tested all the web-pages. After finishing all the pages, I then tested the whole website, I made sure everything appeared as I wanted and made sure all the buttons worked as expected. I ensured that I tested the web-page on different browsers and checked it is responsive to the different screen sizes.
+
+As well as these, I also tested my page using google chrome's light house feature. My results were:
+Performance: ![image](https://github.com/user-attachments/assets/03d86450-7ccf-43f0-9883-94898f126ca3) This had a score of 95% which shows the website's performance is very good.
+Accessibility: ![image](https://github.com/user-attachments/assets/07731918-13c9-4270-8d8e-4fd8c0ae7f99) This had a score of 77%. The buttons have clear names but may be difficult to use with screen readers.
+Best practices: ![image](https://github.com/user-attachments/assets/add41cfe-3306-439a-823e-7d1de0d150f3) This had a score of 96% which shows the website's have very good practices.
+Search engine optimisation: ![image](https://github.com/user-attachments/assets/25646753-2abf-4c88-81d8-d10fd4332ea2) This had a score of 82%
+
+After this, I tested the page using Nu Html Checker. The result was:
+![image](https://github.com/user-attachments/assets/0158bb8a-b9fa-4ce6-a15e-edac9d9cdd11)
+
+
+
+
+
 As a final test, I also got third-parties to test my website and got feedback from them so I could make improvements. I made sure that before submitting my final work, the third-parties were happy with the operation of the website and with the look and feel.
 
 ## Images of the final web-pages
