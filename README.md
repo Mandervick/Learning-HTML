@@ -10,8 +10,14 @@ to ensure that it is accessible to all types of students.
 ## User experience
 
 ### User stories
-User Story 1: ![image](https://github.com/user-attachments/assets/130d8b2b-1589-44e8-970c-bafce8790978)
-User story 2: ![image](https://github.com/user-attachments/assets/1b1d44c2-bca2-4e6e-904a-b4e60f4fb1a5) and ![image](https://github.com/user-attachments/assets/773ca7c7-a8ee-410c-930c-28900f93aa39)
+
+User Story 1:
+![image](https://github.com/user-attachments/assets/130d8b2b-1589-44e8-970c-bafce8790978)
+
+User story 2:
+![image](https://github.com/user-attachments/assets/1b1d44c2-bca2-4e6e-904a-b4e60f4fb1a5)
+and
+![image](https://github.com/user-attachments/assets/773ca7c7-a8ee-410c-930c-28900f93aa39)
 
 ### User tasks
 Both personas will need to be able to search for available mentors and both should have various filter options to suit each ones needs e.g. subject, level or price.
@@ -67,21 +73,40 @@ log in and sign up page both have a "remember me" checkbox to easily sign the us
 but the user has the choice to if they so wish.
 
 ## Validation and testing
+
+### Manual testing
 During the creation of the website, I kept refreshing the page every time I made an edit to make sure it worked as I wanted. If it didn't, this allowed me to identify where I went wrong quickly and fix the isue. This also helped me to make sure that I had tested all the web-pages. After finishing all the pages, I then tested the whole website, I made sure everything appeared as I wanted and made sure all the buttons worked as expected. I ensured that I tested the web-page on different browsers and checked it is responsive to the different screen sizes.
 
+### Google chrome lighthouse testing
 As well as these, I also tested my page using google chrome's light house feature. My results were:
-Performance: ![image](https://github.com/user-attachments/assets/03d86450-7ccf-43f0-9883-94898f126ca3) This had a score of 95% which shows the website's performance is very good.
-Accessibility: ![image](https://github.com/user-attachments/assets/07731918-13c9-4270-8d8e-4fd8c0ae7f99) This had a score of 77%. The buttons have clear names but may be difficult to use with screen readers.
-Best practices: ![image](https://github.com/user-attachments/assets/add41cfe-3306-439a-823e-7d1de0d150f3) This had a score of 96% which shows the website's have very good practices.
-Search engine optimisation: ![image](https://github.com/user-attachments/assets/25646753-2abf-4c88-81d8-d10fd4332ea2) This had a score of 82%
 
+Performance:
+![image](https://github.com/user-attachments/assets/03d86450-7ccf-43f0-9883-94898f126ca3)
+This had a score of 95% which shows the website's performance is very good.
+
+Accessibility:
+![image](https://github.com/user-attachments/assets/07731918-13c9-4270-8d8e-4fd8c0ae7f99)
+This had a score of 77%. The buttons have clear names but may be difficult to use with screen readers. At times, the background and foreground text could have a better contrast.
+
+Best practices:
+![image](https://github.com/user-attachments/assets/add41cfe-3306-439a-823e-7d1de0d150f3)
+This had a score of 96% which shows the website's have very good practices.
+
+Search engine optimisation:
+![image](https://github.com/user-attachments/assets/25646753-2abf-4c88-81d8-d10fd4332ea2)
+This had a score of 82%.
+
+### Nu HTML checker
 After this, I tested the page using Nu Html Checker. The result was:
 ![image](https://github.com/user-attachments/assets/0158bb8a-b9fa-4ce6-a15e-edac9d9cdd11)
+There were 3 errors found but no warnings. These will be investigated in detail later.
 
+### CSS validator
+I also used the CSS validator. The result was:
+![image](https://github.com/user-attachments/assets/1ad4e488-f41b-4a91-9a37-704158fee8f4)
+There were no errors with my CSS.
 
-
-
-
+### Final tests
 As a final test, I also got third-parties to test my website and got feedback from them so I could make improvements. I made sure that before submitting my final work, the third-parties were happy with the operation of the website and with the look and feel.
 
 ## Images of the final web-pages
@@ -93,6 +118,3 @@ Image of log in page: ![image](https://github.com/user-attachments/assets/f03c8d
 Image of contact us page: ![image](https://github.com/user-attachments/assets/11d085b5-e7ef-4522-b7dd-bb0f4afd4a3b)
 Image of terms and conditions page: ![image](https://github.com/user-attachments/assets/20a6d1be-f873-4ddd-bd2a-8891ccbcba14)
 Image of privacy policy page: ![image](https://github.com/user-attachments/assets/19c02774-e674-48b3-922f-06c68b8adb56)
-
-
-
