@@ -51,7 +51,7 @@ This meets the user stories as it provides a user-friendly platform to help get 
 ![image](https://github.com/user-attachments/assets/9d929272-edc2-4bbf-aad3-68342a176131)
 
 ## Changes to Wireframes
-Please see the highlighted text on file: "
+Please see the highlighted text on the file: "Final Wireframes with Annotations.pptx".
 
 ### Final wireframes
 Shown at the bottom of the file.
