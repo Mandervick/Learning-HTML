@@ -10,17 +10,17 @@ to ensure that it is accessible to all types of students.
 ## User experience
 
 ### User stories---
-<br>
+
 User Story 1:
-<br>
+
 ![image](https://github.com/user-attachments/assets/130d8b2b-1589-44e8-970c-bafce8790978)
-<br>
+
 User story 2:
-<br>
+
 ![image](https://github.com/user-attachments/assets/1b1d44c2-bca2-4e6e-904a-b4e60f4fb1a5)
-<br>
+
 and
-<br>
+
 ![image](https://github.com/user-attachments/assets/773ca7c7-a8ee-410c-930c-28900f93aa39)
 
 ### User tasks
