@@ -134,27 +134,27 @@ There were no errors with my CSS.
 As a final test, I also got third-parties to test my website and got feedback from them so I could make improvements. I made sure that before submitting my final work, the third-parties were happy with the operation of the website and with the look and feel.
 
 ## Images of the final web-pages
-Image of the home page 1:
+#### Image of the home page 1:
 ![image](https://github.com/user-attachments/assets/b4628847-0483-47e2-b61e-bc47389055b6)
----
-Image of the home page 2:
+
+##### Image of the home page 2:
 ![image](https://github.com/user-attachments/assets/8389325b-0e7b-4cb8-9f67-507c4a1bdc08)
 ---
-Image of the sign up page:
+#### Image of the sign up page:
 ![image](https://github.com/user-attachments/assets/79f87942-bb03-4e43-a8cb-29d2a32eec9b)
 ---
-Image of sign up form:
+#### Image of sign up form:
 ![image](https://github.com/user-attachments/assets/294cdd2d-b93c-426b-9e9e-7a02da40e11d)
 ---
-Image of log in page:
+#### Image of log in page:
 ![image](https://github.com/user-attachments/assets/f03c8da4-2f7f-4c86-80bb-ba94da869b74)
 ---
-Image of contact us page:
+#### Image of contact us page:
 ![image](https://github.com/user-attachments/assets/11d085b5-e7ef-4522-b7dd-bb0f4afd4a3b)
 ---
-Image of terms and conditions page:
+#### Image of terms and conditions page:
 ![image](https://github.com/user-attachments/assets/20a6d1be-f873-4ddd-bd2a-8891ccbcba14)
 ---
-Image of privacy policy page:
+#### Image of privacy policy page:
 ![image](https://github.com/user-attachments/assets/19c02774-e674-48b3-922f-06c68b8adb56)
 ---
