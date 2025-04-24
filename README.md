@@ -50,6 +50,9 @@ This meets the user stories as it provides a user-friendly platform to help get 
 ![image](https://github.com/user-attachments/assets/8d367545-2cdd-41a8-8e42-a242f3ae08d5)
 ![image](https://github.com/user-attachments/assets/9d929272-edc2-4bbf-aad3-68342a176131)
 
+## Changes to Wireframes
+Please see the highlighted text on file: "
+
 ### Final wireframes
 Shown at the bottom of the file.
 
