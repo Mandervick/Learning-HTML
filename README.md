@@ -11,7 +11,9 @@ to ensure that it is accessible to all types of students.
 
 ### User stories---
 
-User Story 1:---
+---
+User Story 1:
+---
 ![image](https://github.com/user-attachments/assets/130d8b2b-1589-44e8-970c-bafce8790978)
 
 User story 2:---
